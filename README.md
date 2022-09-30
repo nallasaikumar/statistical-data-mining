@@ -1,1 +1,1 @@
-# statistical-data-mining
+# statistical-data-mining-assignment
